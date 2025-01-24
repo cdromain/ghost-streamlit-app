@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## Deployment
 
-This app is deployed on Streamlit Cloud and can be accessed at [your-app-url].
+This app is deployed on Streamlit Cloud and can be accessed at https://ghost-app.streamlit.app/
 
 ## License
 
